@@ -1,0 +1,11 @@
+annotations 
+data
+images
+oxford_pet
+seg_pred 
+seg_test
+seg_train
+*.zip 
+*.tar
+*.jpg 
+*.xml
