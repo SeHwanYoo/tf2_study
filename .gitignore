@@ -5,7 +5,11 @@ oxford_pet
 seg_pred 
 seg_test
 seg_train
+walley_dataset
+
+
 *.zip 
 *.tar
 *.jpg 
 *.xml
+*.npy
